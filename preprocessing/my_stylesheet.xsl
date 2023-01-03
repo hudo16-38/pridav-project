@@ -10,7 +10,8 @@
     
     <xsl:template match="Employment">
      <xsl:copy>
-       <xsl:for-each select="*">
+       <xsl:apply-templates select="Workplace/*"/>
+       <xsl:for-each select="*[not(self::Workplace)]">
          <xsl:value-of select="text()"/>
          <xsl:if test="position() != last()">
             <xsl:text>;</xsl:text>
