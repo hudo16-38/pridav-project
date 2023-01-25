@@ -5,3 +5,5 @@ Zdroje dat: https://www.cvtisr.sk/cvti-sr-vedecka-kniznica/informacie-o-skolstve
 https://www.portalvs.sk/regzam/
 
 https://www.minedu.sk/financovanie-vysokeho-skolstva/
+
+https://datacube.statistics.sk/#!/view/sk/VBD_SLOVSTAT/sp2038ms/v_sp2038ms_00_00_00_sk
